@@ -1,17 +1,17 @@
 ## To execute these tuitorials follow following step:
 
 #### Step-1 Git clone the repo or manually download it:
-git clone https://github.com/spanideaAI/web_appTuitorial
+git clone https://github.com/spanideaAI/web_appTuitorial \
 cd web_appTuitorial
 
 #### Step-2 Make a python virtual env and Activate it: 
 
-python3 -m venv session_env
+python3 -m venv session_env \
 source session_env/bin/activate
 
 #### Step-3 Install requirements
 
-cd web_app_session
+cd web_app_session \
 pip install -r requirements.txt
 
 #### Step-4 Follow steps given in tuitorials
