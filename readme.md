@@ -1,16 +1,16 @@
-To execute these tuitorials follow following step:
+## To execute these tuitorials follow following step:
 
-Step-1 Make a python virtual env and Activate it: 
+#### Step-1 Make a python virtual env and Activate it: 
 
 python3 -m venv session_env
 source session_env/bin/activate
 
-Step-2 Install requirements
+#### Step-2 Install requirements
 
 cd web_app_session
 pip install -r requirements.txt
 
-Step-3 Follow steps given in tuitorials
+#### Step-3 Follow steps given in tuitorials
 
 Tuitorial-1 : web_app_session/web_vs_app_server/tuitorial1.md
 
