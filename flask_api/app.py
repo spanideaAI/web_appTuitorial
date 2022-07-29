@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 @app.route('/hello-world',methods=['GET'])
 def client():
-    return '<h1> Hello World!!' 
+    return '<h1> Hello World!! </h1>' 
 
 @app.route('/addition', methods=['POST'])
 def addition():

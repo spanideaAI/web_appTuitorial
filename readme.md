@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ### Step-4 Install nodejs
 
-sudo apt-get install nodejs
+sudo apt install nodejs
 
 #### Step-4 Follow steps given in tuitorials
 
