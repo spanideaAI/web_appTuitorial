@@ -1,21 +1,24 @@
 ## To execute these tuitorials follow following step:
 
 #### Step-1 Git clone the repo or manually download it:
-git clone https://github.com/spanideaAI/web_appTuitorial.git
-cd web_appTuitorial
+
+git clone https://github.com/spanideaAI/web_appTuitorial.git 
+
+cd web_appTuitorial 
 
 #### Step-2 Make a python virtual env and Activate it: 
 
-python3 -m venv session_env
+python3 -m venv session_env 
+
 source session_env/bin/activate
 
 #### Step-3 Install requirements
 
-pip install -r requirements.txt 
+pip install -r requirements.txt
 
-## Step-4 Install nodejs
+### Step-4 Install nodejs
 
-sudo apt-get install nodejs 
+sudo apt-get install nodejs
 
 #### Step-4 Follow steps given in tuitorials
 
