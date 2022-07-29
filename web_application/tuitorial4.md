@@ -7,6 +7,7 @@ In app.py change variable project_folder as 'path of web_application folder'
 Stay in papent directory i.e, inside web_appTuitorial in terminal
 
 Run application for calculator written in Flask: 
+
 ./run_calculator.sh
 
 ### Go to link given on terminal:
